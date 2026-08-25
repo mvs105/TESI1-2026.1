@@ -1,1 +1,5 @@
-bases_de_dados_tesi/
+# 1. Ignora bases grandes de dados
+base_dados/
+
+# 2. Permite a inclusão de um arquivo específico
+!base_dados\MICRODADOS_ENEM_2023_AC.csv
