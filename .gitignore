@@ -4,3 +4,4 @@ base_dados/*
 # 2. Permite a inclusão de arquivos específicos
 !base_dados/MICRODADOS_ENEM_2023_AC.csv
 !base_dados/MICRODADOS_ENEM_2023_AC_PARA_CLASSIFICACAO.csv
+!base_dados/MICRODADOS_ENEM_2023_AC_PARA_REGRESSAO.csv
